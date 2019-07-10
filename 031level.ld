@@ -354,9 +354,14 @@ unlockcount=0
 30Y=16
 30Z=0
 [tiles]
-changed=object049,
+changed=object049,object110,object111,
 object049_activecolour=4,1
 object049_colour=4,0
 object049_image=text_cursor
 object049_name=text_cursor
 object049_type=0
+object110_colour=1,1
+object110_image=pipe
+object110_name=pipe
+object111_image=text_pipe
+object111_name=text_pipe
