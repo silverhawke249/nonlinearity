@@ -3,5 +3,6 @@ firstlevel=000level
 name=nonlinearity
 start=000level
 -- level pack created by silverhawke
+-- special thanks to Notnat Tlikehis for helping out with level designs
 -- twitter => @fluffderg
 -- repo    => https://github.com/silverhawke249/nonlinearity
