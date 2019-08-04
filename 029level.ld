@@ -12,4 +12,13 @@ selectorY=-1
 specials=0
 unlockcount=0
 [tiles]
-changed=
+changed=object099,object068,
+object099_activecolour=1,4
+object099_colour=1,2
+object099_image=text_hawke
+object099_name=text_hawke
+object099_root=0
+object068_colour=0,3
+object068_image=hawke
+object068_name=hawke
+object068_root=0
