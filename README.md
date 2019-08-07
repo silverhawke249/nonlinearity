@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.1
+  - Minor fixes on Orient.
 - 1.0
   - Initial release.
 
