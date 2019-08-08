@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.4
+  - Adjustment to Ice Rink and Abandoned Assembly
 - 1.3
   - Adjustment to Gatekeepers, Centris, and Septentrion levels lacking a critical object.
 - 1.2
