@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.6
+  - Adjustment to Secured and Fixture.
 - 1.5
   - Adjustment to Oscillation, Alternation, and Dichotomy.
 - 1.4
