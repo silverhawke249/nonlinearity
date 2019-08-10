@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.7
+  - Adjustment to Upstream, Gatekeepers, Revolution, and Defiance.
 - 1.6
   - Adjustment to Secured and Fixture.
 - 1.5
