@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.9
+  - Adjustment to Abandoned Assembly.
 - 1.8
   - Adjustment to Alternation.
 - 1.7
