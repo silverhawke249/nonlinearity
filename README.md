@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.11
+  - Adjustment to Secured and Fixture.
 - 1.10
   - Adjustment to Defiance.
 - 1.9
