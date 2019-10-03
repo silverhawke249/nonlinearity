@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.14
+  - Hotfix for Upstream.
 - 1.13
   - Adjustment to Upstream.
 - 1.12
