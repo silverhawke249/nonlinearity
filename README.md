@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.15.2
+  - Revert Ice Rink to old version, but improved.
 - 1.15.1
   - Hotfix for Disintegration.
 - 1.15
