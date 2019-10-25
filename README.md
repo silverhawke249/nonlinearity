@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.16
+  - Adjustment to Defiance.
 - 1.15.2
   - Revert Ice Rink to old version, but improved.
 - 1.15.1
