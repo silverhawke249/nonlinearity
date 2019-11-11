@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.17.1
+  - Hotfix for Defiance.
 - 1.17
   - Adjustment to Persistence and Defiance.
 - 1.16
