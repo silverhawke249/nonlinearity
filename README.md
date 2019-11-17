@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 2.0
+  - Added a secret~ 😉
 - 1.18
   - Fix for an oversight in Gatekeepers.
 - 1.17.1
