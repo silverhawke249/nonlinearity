@@ -8,9 +8,9 @@ name=centris
 palette=variant.png
 paletteroot=1
 paths=18
-selectorX=6
-selectorY=13
-specials=0
+selectorX=-1
+selectorY=-1
+specials=1
 unlockcount=0
 [levels]
 0clearcolour=4,2
@@ -224,6 +224,11 @@ unlockcount=0
 17X=15
 17Y=14
 17Z=0
+[specials]
+0data=level,032level,2,9
+0X=5
+0Y=13
+0Z=0
 [tiles]
 changed=object049,
 object049_activecolour=4,1
