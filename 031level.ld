@@ -1,6 +1,6 @@
 [general]
 customparent=000level
-levels=31
+levels=32
 leveltype=1
 music=noise
 name=true hub
@@ -353,6 +353,17 @@ unlockcount=0
 30X=25
 30Y=16
 30Z=0
+31clearcolour=0,2
+31colour=0,2
+31dir=0
+31file=032level
+31name=insistence
+31number=9
+31state=0
+31style=2
+31X=27
+31Y=16
+31Z=0
 [tiles]
 changed=object049,object110,object111,object079,object067,object031,object019,object115,object114,object100,object091,
 object049_activecolour=4,1
