@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 2.3
+  - Adjustments in secret areas.
 - 2.2
   - Fix another oversight in said secret.
 - 2.1
