@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 2.6
+  - Fixes for letter-based levels.
 - 2.5
   - Adjustment to The Hub, and Insistence.
 - 2.4
